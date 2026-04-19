@@ -1,6 +1,9 @@
 # lab8-ml
 lab 8: K Nearest Neighbors
 
+name: zainab ibrahim alabdulal
+
+id: 2240002182
 
 ## Task:
 You will find a notebook on Blackboard titled "*02-K Nearest Neighbors Assignment*" along with the dataset "*KNN_Project_Data*".
